@@ -31,7 +31,7 @@ h3 {
     color: var(--heighlight-color);
 }
 
-/* grid visualisation CSS for testing*/
+/* grid visualisation CSS for testing
 
 .container,
 .row {
@@ -42,3 +42,5 @@ h3 {
     border: 2px solid white;
     background-color: lightgray;
 }
+
+*/
